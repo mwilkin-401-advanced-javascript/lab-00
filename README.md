@@ -1,2 +1,6 @@
 # lab-00
-first lab of 401: deployment with heroku and travis-ci
+First lab of 401: deployment with heroku and travis-ci
+
+### Authored by: Matt Wilkin 
+
+#### May 20th, 2019
