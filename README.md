@@ -5,8 +5,10 @@
 ### Author: Matt Wilkin
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/mwilkin-401-advanced-javascript/lab-00/pull/3)
+* [travis](https://travis-ci.com/mwilkin-401-advanced-javascript/lab-00)
+* [heroku](https://quiet-springs-80696.herokuapp.com/ß)
+
 
 
 #### Documentation
